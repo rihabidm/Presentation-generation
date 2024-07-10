@@ -1,2 +1,2 @@
 # Presentation-generation
-Using FastAPI, OpenAI, ChromDB and React
+Using FastAPI, OpenAI, ChromDB for RAG and React
